@@ -1,11 +1,26 @@
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[7.2]: https://i.imgur.com/WBJ2GR9.png (codeforces icon with)
+
+
+[1]: http://www.twitter.com/adhith__t
+[4]: http://adhitht.tumblr.com
+[6]: http://www.github.com/adhitht
+[7]: https://codeforces.com/profile/adhitht
 ### Hi there, I am Adhtih 👋
 
 I am currently a freshman at IIT Hyderabad.
 
+#Social
+[![alt text][1.1]][1]
+[![alt text][7.1]][7]
 
-<a href=”https://www.linkedin.com/in/yushi95/">
-<img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/>
-</a>
+
+
 
 
 
