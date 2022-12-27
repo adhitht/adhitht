@@ -17,6 +17,7 @@ I am currently a freshman at IIT Hyderabad.
 
 #Social
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href=""><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/twitter.png?raw=true" width="21px"></a>
 
 [![alt text][1.1]][1]
 [![alt text][7.1]][7]
