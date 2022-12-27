@@ -1,25 +1,20 @@
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: https://i.imgur.com/WBJ2GR9.png (codeforces icon with)
-
-
-[1]: http://www.twitter.com/adhith__t
-[4]: http://adhitht.tumblr.com
-[6]: http://www.github.com/adhitht
-[7]: https://codeforces.com/profile/adhitht
 ### Hi there, I am Adhtih 👋
 
 I am currently a freshman at IIT Hyderabad.
 
-<p font-size="50px">Social<p>
+<h3>Social</h3>
 
 <a href="https://www.twitter.com/adhith__t/"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/twitter.png?raw=true" width="21px"></a>
 <a href="https://www.linkedin.com/in/adhitht/"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/linkedin.png?raw=true" width="21px"></a>
+<a href="https://www.instagram.com/adhith__t/"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/instagram.png?raw=true" width="21px"></a>
 <br>
+
+<h3>CP</h3>
+<a href="https://codeforces.com/profile/adhitht"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/codeforces.png?raw=true" width="21px"></a>
+<a href="https://www.codechef.com/users/adhitht"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/codechef.png?raw=true" width="21px"></a>
+<br>
+<br>
+
 [![adhith's github stats](https://github-readme-stats.vercel.app/api?username=adhitht&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
