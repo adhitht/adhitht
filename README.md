@@ -1,7 +1,9 @@
 ### Hi there, I am Adhtih 👋
 
 I am currently a freshman at IIT Hyderabad.
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=adhitht&theme=1)
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
 
 [![adhith's github stats](https://github-readme-stats.vercel.app/api?username=adhitht&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
