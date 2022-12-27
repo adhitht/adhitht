@@ -15,14 +15,11 @@
 
 I am currently a freshman at IIT Hyderabad.
 
-###Social
+<p font-size="50px">Social<p>
 
 <a href="https://www.twitter.com/adhith__t/"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/twitter.png?raw=true" width="21px"></a>
 <a href="https://www.linkedin.com/in/adhitht/"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/linkedin.png?raw=true" width="21px"></a>
-
-
-
-
+<br>
 [![adhith's github stats](https://github-readme-stats.vercel.app/api?username=adhitht&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
