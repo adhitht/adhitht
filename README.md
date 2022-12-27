@@ -18,14 +18,8 @@ I am currently a freshman at IIT Hyderabad.
 #Social
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
-<a href="https://www.linkedin.com/in/adhitht/"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/twitter.png?raw=true" width="21px"></a>
-
-[![alt text][1.1]][1]
-[![alt text][7.1]][7]
-
-
-
-
+<a href="https://www.twitter.com/adhith__t/"><img align="left" src="https://github.com/adhitht/adhitht/blob/main/icons/twitter.png?raw=true" width="21px"></a>
+<a href="https://www.linkedin.com/in/adhitht/"><img align="left" src="[https://github.com/adhitht/adhitht/blob/main/icons/twitter.png]https://github.com/adhitht/adhitht/blob/main/icons/linkedin.png?raw=true" width="21px"></a>
 
 
 [![adhith's github stats](https://github-readme-stats.vercel.app/api?username=adhitht&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
