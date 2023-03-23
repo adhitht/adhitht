@@ -1,4 +1,4 @@
-### Hi there, I am Adhtih 👋
+### Hi there, I am Adhith 👋
 
 I am currently a freshman at IIT Hyderabad.
 
