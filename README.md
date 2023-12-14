@@ -5,8 +5,8 @@ Undergraduate at IIT Hyderbad
 -----------------------------
 
 * 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at [adhitht.me](http://adhitht.me)
-* ✉️  You can contact me at [heelo@adhitht.me](mailto:hello@adhitht.me)
+* 🖥️  See my portfolio at [adhitht.me](httsp://adhitht.me)
+* ✉️  You can contact me at [hello@adhitht.me](mailto:hello@adhitht.me)
 * 🧠  I'm learning Go Lang
 
 ### Skills
